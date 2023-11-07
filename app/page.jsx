@@ -7,7 +7,7 @@ export default function Page() {
       
       <CountButton2/>
       <hr/>
-      <a href="https://github.com/gagenesbit/nextJSProject"> my github repo</a>
+      <a href="https://github.com/gagenesbit/nextJS"> my github repo</a>
       <p>Search Bar</p>
       </div>
   }
